@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494393632334",
+    "project_id": "react-native-notificatio-b1e1c",
+    "storage_bucket": "react-native-notificatio-b1e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494393632334:android:50defb073b22b72ee4451f",
+        "android_client_info": {
+          "package_name": "com.rn_pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmv2YLBl9_xpUiFM-PBSV7kVyeZWumh0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
